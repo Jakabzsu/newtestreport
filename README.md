@@ -1,2 +1,3 @@
 # newtestreport
-New repo for testin github.
+New repo for testing github.
+
